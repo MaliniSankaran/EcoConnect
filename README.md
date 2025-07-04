@@ -141,7 +141,7 @@ Healthcare organizations face challenges in managing complex workflows, ensuring
 
 - [JFreeChart Tutorial](https://www.youtube.com/watch?v=7LpvxC69qvg)
 - [JDateChooser Documentation](https://toedter.com/jcalendar/)
-- [SQL Server Setup Guide](https://www.youtube.com/watch?v=goM8I9iVOIw) _(for general SQL knowledge; EcoConnect uses MySQL for admin authentication only)_
+- [SQL Server Setup Guide](https://www.youtube.com/watch?v=goM8I9iVOIw) 
 
 ---
 
